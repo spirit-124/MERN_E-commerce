@@ -17,6 +17,7 @@
     "bcryptjs": "^2.4.3",
     "colors": "^1.4.0",
     "concurrently": "^5.3.0",
+    "cors": "^2.8.5",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "express-async-handler": "^1.1.4",
@@ -24,5 +25,14 @@
     "mongodb": "^2.2.16",
     "mongoose": "^5.11.8",
     "nodemon": "^2.0.6"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spirit-124/MERN_E-commerce.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/spirit-124/MERN_E-commerce/issues"
+  },
+  "homepage": "https://github.com/spirit-124/MERN_E-commerce#readme"
 }

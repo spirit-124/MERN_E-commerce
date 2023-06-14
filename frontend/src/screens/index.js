@@ -1,3 +1,4 @@
-import { HomeScreen } from "./HomeScreen";
+import HomeScreen from "./HomeScreen";
+import ProductDetails from "./ProductDetails";
 
-export { HomeScreen };
+export { HomeScreen, ProductDetails };
